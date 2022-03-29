@@ -1,0 +1,193 @@
+body {
+    background-color: #1B2326;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-weight: normal;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 480px;
+    border-top: black 2px solid;
+    border-bottom: black 2px solid;
+    border-right: black 2px solid;
+    border-left: black 2px solid;
+}
+
+a:link {
+  color: #AEC8CC;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #AEC8CC;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #AEC8CC;
+  text-decoration: none;
+}
+
+a:active {
+  color: #AEC8CC;
+  text-decoration: none;
+}
+
+h2 {
+  color: #AEC8CC;
+}
+
+hr {
+    margin-top: 30px;
+    border-top: black 1px solid;
+    border-bottom: black 1px solid;
+    border-right: black 1px solid;
+    border-left: black 1px solid;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    background-color: rgb(0, 0, 0);
+    margin-bottom: 30px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+li {
+    list-style-type: none;
+}
+
+table {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: center;
+    width: 100%;
+}
+
+#container {
+    background-color: #1B2326;
+    color: #AEC8CC;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+}
+
+#box-nav {
+    background-color: #1B2326;
+    border-top: #39423E 1px solid;
+    border-bottom: #39423E 1px solid;
+    border-right: #39423E 1px solid;
+    border-left: #39423E 1px solid;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 100%;
+    text-align: center;
+}
+
+    #box-small {
+        background-color: #1B2326;
+        border-top: #39423E 1px solid;
+        border-bottom: #39423E 1px solid;
+        border-right: #39423E 1px solid;
+        border-left: #39423E 1px solid;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+        text-align: center;
+        width: 100%;
+        display: inline-block;
+    }
+
+@media only screen and (min-width: 800px) {
+    #box-small {
+        background-color: #1B2326;
+        border-top: #39423E 1px solid;
+        border-bottom: #39423E 1px solid;
+        border-right: #39423E 1px solid;
+        border-left: #39423E 1px solid;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+        text-align: center;
+        width: 49.5%;
+        display: inline-block;
+    }
+}
+#box-big {
+    background-color: #1B2326;
+    border-top: #39423E 1px solid;
+    border-bottom: #39423E 1px solid;
+    border-right: #39423E 1px solid;
+    border-left: #39423E 1px solid;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 100%;
+}
